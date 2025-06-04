@@ -1,0 +1,5 @@
+สร้าง python -m venv venv
+ใช้งาน venv\Scripts\activate
+ออก deactivate
+
+pip install -r requirements.txt
